@@ -2,6 +2,7 @@
 #ifndef GAME_H
 #define GAME_H
 
+#include<iostream>
 #include <SFML/Graphics.hpp>
 #include <SFML/System.hpp>
 #include <SFML/Window.hpp>
